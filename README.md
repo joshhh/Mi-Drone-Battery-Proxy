@@ -21,4 +21,5 @@ Currently this software implementation has some problems on different hardwares.
 
 Repository is based on hacked Wire and SoftwereWire arduino libraries with ability to send and receive bytes without buffering.
 
-Main purpose of this repository is to rewrite code of this software proxy implimentation with support of **Non blocking Wire library (nI2C)**
+Main purpose of this repository is to rewrite code of this software proxy implimentation with support of **Non blocking Wire library (nI2C)** https://github.com/nitacku/nI2C
+
